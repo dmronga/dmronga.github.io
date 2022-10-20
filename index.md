@@ -1,6 +1,1 @@
----
-layout: default
----
-
-|-|-|
-| <img src="assets/images/misteronga.jpg" alt="drawing" width="200"/> | This is a test |
+<img src="images/demr.jpg" alt="drawing" width="200"/>
