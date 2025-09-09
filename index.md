@@ -21,17 +21,17 @@ I am a post-doctoral researcher in Robotics and AI at the [Robotics Innovation C
 
 For a complete list, please check my [Google Scholar Profile](https://scholar.google.com/citations?user=6_MuPm0AAAAJ&hl=de)
 
-F. Stark, J. Middelberg, D. Mronga, S. Vyas, and F. Kirchner. "[Benchmarking Different QP Formulations and Solvers for Dynamic Quadrupedal Walking.]", 2025 IEEE International Conference on Robotics and Automation (ICRA), 2025, doi: 10.48550/arXiv.2502.01329.<br>
+F. Stark, J. Middelberg, D. Mronga, S. Vyas, and F. Kirchner. "[Benchmarking Different QP Formulations and Solvers for Dynamic Quadrupedal Walking](https://arxiv.org/abs/2502.01329)", 2025 IEEE International Conference on Robotics and Automation (ICRA), 2025, doi: 10.48550/arXiv.2502.01329.<br>
 <br>
-R. Kumar, M. Boukheddimi, D. Mronga, S. Kumar, and F. Kirchner. "[Parallel Transmission Aware Co-Design: Enhancing Manipulator Performance Through Actuation-Space Optimization"], *arXiv Preprint arXiv:2507.00644*, doi: 10.48550/arXiv.2507.00644.<br>
+R. Kumar, M. Boukheddimi, D. Mronga, S. Kumar, and F. Kirchner. "[Parallel Transmission Aware Co-Design: Enhancing Manipulator Performance Through Actuation-Space Optimization](https://arxiv.org/abs/2507.00644)", *arXiv Preprint arXiv:2507.00644*, doi: 10.48550/arXiv.2507.00644.<br>
 <br>
-D. Mronga, A. Bresser, F. Maas gen. Bermpohl, A. Danzglock, S. Stelter, A. Hawkin, H. G. Nguyen, M. Beetz, F. Kirchner. "[MARLIN: A cloud integrated robotic solution to support intralogistics in retail], In Robotics and Autonomous Systems, ScienceDirect, 2024.<br>
+D. Mronga, A. Bresser, F. Maas gen. Bermpohl, A. Danzglock, S. Stelter, A. Hawkin, H. G. Nguyen, M. Beetz, F. Kirchner. "[MARLIN: A cloud integrated robotic solution to support intralogistics in retail](https://www.sciencedirect.com/science/article/pii/S092188902400037X)", In Robotics and Autonomous Systems, ScienceDirect, 2024.<br>
 <br>
-D. Rakovitis, D. Mronga. "[Gaussian Mixture Likelihood-based Adaptive MPC for Interactive Mobile Manipulators]", In 2024 IEEE International Conference on Robotics and Automation (ICRA), Yokohama, Japan, 2024, doi: 10.1109/ICRA57147.2024.10610115.<br>
+D. Rakovitis, D. Mronga. "[Gaussian Mixture Likelihood-based Adaptive MPC for Interactive Mobile Manipulators](https://ieeexplore.ieee.org/document/10610115)", In 2024 IEEE International Conference on Robotics and Automation (ICRA), Yokohama, Japan, 2024, doi: 10.1109/ICRA57147.2024.10610115.<br>
 <br>
-D. Mronga, S. Kumar, F. Kirchner. "[Whole-body control]", In Biologically Inspired Series-Parallel Hybrid Robots, Elsevier, chapter 9, 2024. ISBN: 978-0-323-88482-2.<br>
+D. Mronga, S. Kumar, F. Kirchner. "[Whole-body control](https://shop.elsevier.com/books/biologically-inspired-series-parallel-hybrid-robots/kumar/978-0-323-88482-2)", In Biologically Inspired Series-Parallel Hybrid Robots, Elsevier, chapter 9, 2024. ISBN: 978-0-323-88482-2.<br>
 <br>
-D. Mronga, F. Kirchner. "[The ARC-OPT Library for Whole-Body Control of Robotic Systems]", In Journal of Open Source Software, The Open Journal, volume 9, number 104, 2024.<br>
+D. Mronga, F. Kirchner. "[The ARC-OPT Library for Whole-Body Control of Robotic Systems](https://joss.theoj.org/papers/10.21105/joss.06696)", In Journal of Open Source Software, The Open Journal, volume 9, number 104, 2024.<br>
 <br>
 D. Mronga, S. Kumar and F. Kirchner, "[Whole-Body Control of Series-Parallel Hybrid Robots](https://arc-opt.github.io/Documentation/publications/icra_2022/index.html)" 2022 International Conference on Robotics and Automation (ICRA), 2022, pp. 228-234, doi: 10.1109/ICRA46639.2022.9811616.<br>
 <br>
